@@ -1,0 +1,30 @@
+
+body{
+    background-color: turquoise;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.caixa{
+    box-sizing: border-box;
+    background-color: white;
+    margin: auto;
+    margin-top: 70px;
+    padding: 60px;
+    width: 80%;
+}
+#h1{
+    margin: top;
+    text-align: center;
+}
+#p{
+    margin-top: -18px;
+    text-align: center;
+    font-size: smaller;
+}
+.table{
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    width:100% ;
+
+}

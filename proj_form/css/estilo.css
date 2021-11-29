@@ -1,0 +1,23 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    font-size:medium;
+    color: cornflowerblue;
+}
+.form-control{
+    background-color: rgb(210, 221, 238);
+}
+.container{
+    margin:auto;
+}
+.form{
+    box-sizing: border-box;
+    padding: 120px;
+    padding-top: 30px;
+}
+.form-floating{
+    color:rgb(54, 110, 212);
+
+}
+
+
+
